@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BotonAvion" parent="Widget.Material3.Button">
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:layout_marginTop">100dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="backgroundTint">#815ae3</item>
+        <item name="cornerRadius">4dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+</resources>
